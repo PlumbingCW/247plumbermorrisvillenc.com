@@ -323,3 +323,4 @@ main p,main li,main td,main th,.footer a,.footer p{overflow-wrap:anywhere}
 .blog-card{padding:0 0 22px}
 .blog-card .blog-thumb{display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;margin-bottom:16px}
 .blog-card>*:not(.blog-thumb){margin-left:22px;margin-right:22px}
+.table-wrap td,.table-wrap th{overflow-wrap:normal;word-break:normal;hyphens:none;min-width:6.5rem}
